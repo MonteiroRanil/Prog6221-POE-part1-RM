@@ -14,7 +14,7 @@ namespace Chatbot
         {
             try
             {
-                SoundPlayer soundplayer = new SoundPlayer("C:\\Users\\lab_services_student\\Desktop\\Chatbot\\chatbot.wav");
+                SoundPlayer soundplayer = new SoundPlayer("C:\\Users\\lab_services_student\\Desktop\\Prog6221-POE-part1-RM\\Chatbot\\chatbot.wav");
                 soundplayer.Play();
             }
             catch (Exception ex)
