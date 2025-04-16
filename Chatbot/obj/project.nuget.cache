@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2riJjpoqetA=",
+  "dgSpecHash": "6U/zKqNUQ1s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\Chatbot.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\Prog6221-POE-part1-RM\\Chatbot\\Chatbot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\system.windows.extensions\\9.0.4\\system.windows.extensions.9.0.4.nupkg.sha512"
   ],

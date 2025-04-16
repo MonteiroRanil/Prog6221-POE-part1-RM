@@ -27,7 +27,7 @@ namespace Chatbot
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"Goodbye {name},I hope i made you more aware about your safety online, Stay safe");
-                    Console.WriteLine("See you later ❤");
+                    Console.WriteLine("See you later");
                     Environment.Exit(0);
                     break;
                 }

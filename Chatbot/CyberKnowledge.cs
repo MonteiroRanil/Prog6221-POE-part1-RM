@@ -42,7 +42,7 @@ namespace Chatbot
             if (input.Contains("password") || input.Contains("safe"))
             {
                 Console.WriteLine("Strong passwords should be at least 12 characters long and include a mix of letters, numbers, and symbols. Never reuse passwords across different sites! ");
-                string response = "Next: choose phishing, safe browsing or exit";
+                string response = "Next: choose between phishing, safe browsing or if you're done you can exit";
                 Console.WriteLine(response);
                 Console.ResetColor();
                 return "";
@@ -50,7 +50,7 @@ namespace Chatbot
             else if (input.Contains("phishing") || input.Contains("email"))
             {
                 Console.WriteLine("Phishing emails often try to create urgency or fear. Always check the sender's address and never click links in suspicious emails.");
-                string response = "Next: Choose password safety, safe browsing or exit";
+                string response = "Next: Choose password safety, safe browsing or if you're done you can exit";
                 Console.WriteLine(response);
                 Console.ResetColor();
                 return "";
@@ -58,7 +58,7 @@ namespace Chatbot
             else if (input.Contains("browsing") || input.Contains("internet"))
             {
                 Console.WriteLine("For safe browsing: look for HTTPS in URLs, avoid public WiFi for sensitive transactions, and keep your browser updated.");
-                string response = "Next: Choose password safety, phishing or exit ";
+                string response = "Next: Choose password safety, phishing or if you're done you can exit ";
                 Console.WriteLine(response);
                 Console.ResetColor();
                 return "";
