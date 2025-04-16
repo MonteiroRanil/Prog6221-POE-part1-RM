@@ -15,7 +15,7 @@ namespace Chatbot
                 
                 string input = Console.ReadLine().ToLower();
  
-                if (string.IsNullOrWhiteSpace(input))
+                if (string.IsNullOrWhiteSpace(input))// if statement for if they eft it blank or asked something the bot does not know
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("I didn't quite understand that. Could you rephrase?");
@@ -23,7 +23,7 @@ namespace Chatbot
                     continue;
                 }
 
-                if (input.Contains("exit") || input.Contains("quit") || input.Contains("leave") || input.Contains("goodbye"))
+                if (input.Contains("exit") || input.Contains("quit") || input.Contains("leave") || input.Contains("goodbye"))//if statement for if the user wants to leave the bot
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"Goodbye {name},I hope i made you more aware about your safety online, Stay safe");
@@ -32,7 +32,7 @@ namespace Chatbot
                     break;
                 }
 
-                string response = CyberKnowledge.Response(input);
+                string response = CyberKnowledge.Response(input);//calling the class with the knowledge
                 Console.WriteLine(response);
             }
         }
