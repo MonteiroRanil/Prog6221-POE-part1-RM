@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\chatbot\\userint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|solutionrelative:userint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\chatbot\\cyberknowledge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|solutionrelative:cyberknowledge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\chatbot\\audiowelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|solutionrelative:audiowelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\chatbot\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2796CB-FE0A-4BC1-940A-826376AE63B1}|Chatbot.csproj|solutionrelative:logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CyberKnowledge.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\CyberKnowledge.cs",
+              "RelativeDocumentMoniker": "CyberKnowledge.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\CyberKnowledge.cs",
+              "RelativeToolTip": "CyberKnowledge.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:35:33.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userInt.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\userInt.cs",
+              "RelativeDocumentMoniker": "userInt.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\userInt.cs",
+              "RelativeToolTip": "userInt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:30:05.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logo.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\Logo.cs",
+              "RelativeDocumentMoniker": "Logo.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\Logo.cs",
+              "RelativeToolTip": "Logo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:14:08.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Audiowelcome.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\Audiowelcome.cs",
+              "RelativeDocumentMoniker": "Audiowelcome.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\Audiowelcome.cs",
+              "RelativeToolTip": "Audiowelcome.cs",
+              "ViewState": "AgIAAA0AAABAUPWJ3KYrwBAAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:56:53.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Chatbot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAACAhmXh0I4ZwBAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:03:23.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
