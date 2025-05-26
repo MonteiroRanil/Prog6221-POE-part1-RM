@@ -1,23 +1,30 @@
-﻿namespace Chatbot
+﻿using System;
+
+namespace Chatbot
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Audiowelcome.welcome();//calling the audio class
-            Logo.ascii();//calling the comments class 
+            Audiowelcome.welcome();
+            Logo.ascii();
 
-            Console.ForegroundColor = ConsoleColor.Green;// making the chatbots colour green
-            Console.WriteLine("Hey, I am cyber bot whats your name?");
-            Console.WriteLine();
-            Console.ForegroundColor = ConsoleColor.White;//making the user's colour white
-            string name = Console.ReadLine();
-            Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"Hello {name}, nice to meet you, how could i help you today?");
+            Console.WriteLine("Hey, I am cyber bot. What's your name?");
             Console.WriteLine();
+
             Console.ForegroundColor = ConsoleColor.White;
-            userInt.interaction(name);//calling the user interaction class
+            string name = Console.ReadLine();
+            memory.UserName = name; // ✅ Store in memory
+
+            Console.WriteLine();
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Hello {name}, nice to meet you. How could I help you today?");
+            Console.WriteLine();
+
+            Console.ForegroundColor = ConsoleColor.White;
+            userInt.interaction(name);
             Console.WriteLine();
             Console.ReadKey();
         }
